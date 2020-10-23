@@ -17,7 +17,7 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-toFgamDuNp5g+94as9EuA7ou6E5+fT5hMeR5hvE4FtmuH9SNazVg8DDK0QYce1kPkASEMd1uvkaZSGtUAsAOuw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-b681606a60ee369e60fbde1ab3d12e03.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-AAL4vHqoef7azLizL9Sh/ph6rt7hPyPXoa6ngQSxoJI8jZPIL5Ij17nCUW124lalllAaZqoThwv4iFO6e0ol3g==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-0002f8bc7aa879fedaccb8b32fd4a1fe.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-Dfzlg2XrhW63lgWXUe/uFx+W2R8/qb4zF4d3JxAw0Ag8Pdl2pRTtCNs2VAmKjOf/cXePTxIX6aB9LN9NeonNlw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-0dfce58365eb856eb796059751efee17.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-VtAH+ujKQfsjrCw/OuS8YAyEd+o8OZdzBT3P116XooG48uEFJWJBdaQDK2EZie+EbyE+rzrS4uejAEDqiI189g==" rel="stylesheet" href="https://github.githubassets.com/assets/github-56d007fae8ca41fb23ac2c3f3ae4bc60.css" />
     
@@ -29,7 +29,7 @@
       <script crossorigin="anonymous" defer="defer" integrity="sha512-Frpx4fl3HV4D/7rfUGgz6UgUP60xbLhFWH2rpCQ/cJkP40MGCFvqOA0YjhN6cMDBzzBh6efSoX4NMgZ0eCY5jw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-16ba71e1.js"></script>
       <script crossorigin="anonymous" defer="defer" integrity="sha512-Shix6Hkv5DNREArBi1dz6K2Dezl6x88FzVNzPUHKbjuk6iZAuHacGedCwe/1YQtFhf8DzLIIDhr1Sb41uwiIXg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-4a18b1e8.js"></script>
     
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-TckvI2aTM+lJEdAV8Le7ti9eW3+D5gN50h5SYgDziFBBXBRd5GhwqcsDG+wy/PrRFw0Vuha0SaP/qq9OFK9hYA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-4dc92f23.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-ZsU5XHiGqDjQKwi2MNlv7lhCvKfm2xsqgRLifzAyoNBAYLiiueoCFxwQyl3VZ1CcxCQ/2Av8KUSYdwM1wg7b/w==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-66c5395c.js"></script>
     
       <script crossorigin="anonymous" defer="defer" integrity="sha512-P2YMkqfXJOOfxTTkNHbblY5ks3U+e9w9tiVyK9syrE5+JmlaCg1kUiuT1DfbyJXwaOLaRLT3zam2r+QrxTZ3iw==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-3f660c92.js"></script>
       <script crossorigin="anonymous" defer="defer" integrity="sha512-JDDF8W8Wl5vopo9t4K4NtIEUMCYov3ZjVpv9lC1SDUxhejU+ILu8V3l6BhkaIRMYJioQWj9am9tJSTvND+8wJg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-2430c5f1.js"></script>
@@ -46,7 +46,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>server-mods/README.md at master · MultiCraft/server-mods · GitHub</title>
+  <title>server-mods/gui.lua at master · MultiCraft/server-mods · GitHub</title>
     <meta name="description" content="Contribute to MultiCraft/server-mods development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -62,7 +62,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="F660:6F38:19849C:2254AA:5F932A09" data-pjax-transient="true"/><meta name="html-safe-nonce" content="24962e3893a95a756110b59817387858be5e0fd7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NdWx0aUNyYWZ0L3NlcnZlci1tb2RzL3RyZWUvbWFzdGVyL3hiYW4yIiwicmVxdWVzdF9pZCI6IkY2NjA6NkYzODoxOTg0OUM6MjI1NEFBOjVGOTMyQTA5IiwidmlzaXRvcl9pZCI6IjkwNTI2Nzk1OTI3NTQ3NTE0MTIiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJzZWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="caa0a4dc36f730858254ee7c34b0114e9dd3afb34249ad3708c31d6e6d095f9d" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
+  <meta name="request-id" content="F661:978E:94E04:C9839:5F932A20" data-pjax-transient="true"/><meta name="html-safe-nonce" content="24962e3893a95a756110b59817387858be5e0fd7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9NdWx0aUNyYWZ0L3NlcnZlci1tb2RzL3RyZWUvbWFzdGVyL3hiYW4yIiwicmVxdWVzdF9pZCI6IkY2NjE6OTc4RTo5NEUwNDpDOTgzOTo1RjkzMkEyMCIsInZpc2l0b3JfaWQiOiI5MDUyNjc5NTkyNzU0NzUxNDEyIiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="df7f01988267b5f3c806cce2b81a528ee36da07105e37db2e69cded465cb434c" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:216094929" data-pjax-transient>
 
@@ -108,7 +108,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_IN_HEAD">
 
-  <meta http-equiv="x-pjax-version" content="88a3f797e8351fdca979ccb37bb4434da0910a45b6f577b74f895d9556e04b44">
+  <meta http-equiv="x-pjax-version" content="b20435a62e2858a87a305f2272d230515fedbc19c02947b137d5b6e24bb0f0d3">
   
 
         <link href="https://github.com/MultiCraft/server-mods/commits/master.atom" rel="alternate" title="Recent Commits to server-mods:master" type="application/atom+xml">
@@ -118,7 +118,7 @@
   <meta name="octolytics-dimension-user_id" content="11789482" /><meta name="octolytics-dimension-user_login" content="MultiCraft" /><meta name="octolytics-dimension-repository_id" content="216094929" /><meta name="octolytics-dimension-repository_nwo" content="MultiCraft/server-mods" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="216094929" /><meta name="octolytics-dimension-repository_network_root_nwo" content="MultiCraft/server-mods" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -164,7 +164,7 @@
         <div class="d-flex flex-items-center">
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="92a8b5e985f90c097a29157b28dcef9327208a27c3be2f81e9a261450a284ce6"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d8188b848033886d365fd09dbdeccb49e2c24b3243f5bb665a4962b549ffc89e"
                 data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
                 Sign&nbsp;up
               </a>
@@ -313,7 +313,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4jCCf6wwdl8MvsmjSmv9VX/+pfkwsqHK58oqcSJ/KBZMzF7U8gpa3vM4g3QadjnGlGB0y07BZ0cAIjs+d9ZtRg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="IqDostyz89qdIDIxoaLgUpfdos+oMUkwWUd3urN4BUqMXDQZgonfW2KmeObxvyTBfENz/dZCj72+r2b15tFAGg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -435,15 +435,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2FREADME.md"
+        <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2Fgui.lua"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cad325bc56837212b0f3f6c13eb02aba323ea3d40a71dd8bc82de3fa38c486a9"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1d80a3ac8a099ee4adbaa1f421f589c59aeaf8a5c24eeffb5acb98e556c16cef"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=MultiCraft%2Fserver-mods"
               class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cad325bc56837212b0f3f6c13eb02aba323ea3d40a71dd8bc82de3fa38c486a9"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1d80a3ac8a099ee4adbaa1f421f589c59aeaf8a5c24eeffb5acb98e556c16cef"
               data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
@@ -531,7 +531,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-          <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dc6b6734729e1ea132dc404ab62e8b708342be459b65b3191fe5f4b2c12037ae" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
+          <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="748c8a8f6f81df93c0d222a4e6713f7358f80e3445dcc69bbf8189ae4cee1f3b" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
     <svg class="octicon octicon-eye" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/MultiCraft/server-mods/watchers"
@@ -542,7 +542,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:216094929,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cba9d83365d88f1e25b79ed25dddc8f1ceb746b5f0513d7af4e133eb1567550d" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:216094929,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="28b26b97dddad3773309474cbad65e7278b36188b21793916835c1f043d3ca15" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
       <svg class="octicon octicon-star v-align-text-bottom" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
       Star
 </a>
@@ -554,7 +554,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:216094929,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8c1f632b2d4f201baa4d5a3a15f14aad98be746cb0d17058646217a2dffb8d42" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:216094929,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ce0f56388235600dcbe770a4f2034f4b8ff03cef58c69d2e0a90504d521dd0ec" href="/login?return_to=%2FMultiCraft%2Fserver-mods">
           <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
           Fork
 </a>
@@ -658,9 +658,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/MultiCraft/server-mods/blob/c4d1efb41ae56b14d22b595b0c45ae99371aa1fa/xban2/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/MultiCraft/server-mods/blob/c4d1efb41ae56b14d22b595b0c45ae99371aa1fa/xban2/gui.lua">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:790f6e7bbdb0d82527a1f4b7373555c4a8c047e5d229264153e265d5755c46fc -->
+    <!-- blob contrib key: blob_contributors:v22:572ea527afb06d7c721034162d53db14d5462ed86e54b0c2ff6a8735c0e23109 -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -674,7 +674,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="03c95f11bf7cae261136e00f76df89658ed00c0794f7538b8477c28deb498583" href="/join?source=prompt-blob-show&amp;source_repo=MultiCraft%2Fserver-mods">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7a7b8916f2a8d92b1cea72fd9ff88430151dde4900611389167b849dff9ab798" href="/join?source=prompt-blob-show&amp;source_repo=MultiCraft%2Fserver-mods">Sign up</a>
       </div>
     </div>
   </signup-prompt>
@@ -692,7 +692,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/MultiCraft/server-mods/refs/master/xban2/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/MultiCraft/server-mods/refs/master/xban2/gui.lua?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -704,7 +704,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/MultiCraft/server-mods"><span>server-mods</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/MultiCraft/server-mods/tree/master/xban2"><span>xban2</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/MultiCraft/server-mods"><span>server-mods</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/MultiCraft/server-mods/tree/master/xban2"><span>xban2</span></a></span><span class="separator">/</span><strong class="final-path">gui.lua</strong>
       </h2>
       <a href="/MultiCraft/server-mods/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -719,7 +719,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:216094929,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="feba8ad13132815e5e6f6bb19845abf57c4abc9861a771faa797c3b7d9eb6581" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/MultiCraft/server-mods/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:216094929,&quot;originating_url&quot;:&quot;https://github.com/MultiCraft/server-mods/blob/master/xban2/gui.lua&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd7f4656e581bc1be6045a265d5af0bd2f7c4225091d25e9baa515254b187057" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/MultiCraft/server-mods/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -733,7 +733,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="xban2/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="xban2/gui.lua" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -743,7 +743,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/MultiCraft/server-mods/contributors/master/xban2/README.md" class="commit-loader">
+      <include-fragment src="/MultiCraft/server-mods/contributors/master/xban2/gui.lua" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -766,16 +766,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      111 lines (69 sloc)
+      139 lines (130 sloc)
       <span class="file-info-divider"></span>
-    3.24 KB
+    3.68 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/MultiCraft/server-mods/raw/master/xban2/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/MultiCraft/server-mods/blame/master/xban2/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/MultiCraft/server-mods/raw/master/xban2/gui.lua" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/MultiCraft/server-mods/blame/master/xban2/gui.lua" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -787,11 +787,11 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2Fgui.lua" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
           </a>
-          <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FMultiCraft%2Fserver-mods%2Fblob%2Fmaster%2Fxban2%2Fgui.lua" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
           </a>
@@ -800,81 +800,599 @@
 </div>
 
       
-  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-extended-ban-mod-for-minetest" class="anchor" aria-hidden="true" href="#extended-ban-mod-for-minetest"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Extended Ban Mod for Minetest</h1>
-<p>This mod attempts to be an improvement to Minetest's ban system.</p>
-<ul>
-<li>It supports normal bans and temporary bans (from 60 seconds up to the end of
-time, with 1 second granularity).</li>
-<li>Records and joins all accounts using the same IP address and several IP
-addresses using the same name into a single record, and can ban/unban them as
-a single user.</li>
-<li>Can ban offline players if you know their IP or username.</li>
-<li>Holds a record of bans for each user, so moderators and administrators can
-consult it to know if a player is a repeat offender.</li>
-<li>Does not modify the default ban database in any way (`ipban.txt').</li>
-<li>Has an API to ban and check the ban database to allows other mods to manage
-users (for example, anticheat mods).</li>
-</ul>
-<h2><a id="user-content-chat-commands" class="anchor" aria-hidden="true" href="#chat-commands"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Chat commands</h2>
-<p>The mod provides the following chat commands. All commands require the <code>ban</code>
-privilege.</p>
-<h3><a id="user-content-xban" class="anchor" aria-hidden="true" href="#xban"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban</code></h3>
-<p>Bans a player permanently.</p>
-<p><strong>Usage:</strong> <code>/xban &lt;player_or_ip&gt; &lt;reason&gt;</code></p>
-<p><strong>Example:</strong> <code>/xban 127.0.0.1 Some reason.</code></p>
-<h3><a id="user-content-xtempban" class="anchor" aria-hidden="true" href="#xtempban"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xtempban</code></h3>
-<p>Bans a player temporarily.</p>
-<p><strong>Usage:</strong> <code>/xtempban &lt;player_or_ip&gt; &lt;time&gt; &lt;reason&gt;</code></p>
-<p>The <code>time</code> parameter is a string in the format <code>&lt;count&gt;&lt;unit&gt;</code> where <code>&lt;unit&gt;</code>
-is one of <code>s</code> for seconds, <code>m</code> for minutes, <code>h</code> for hours, <code>D</code> for days, <code>W</code>
-for weeks, <code>M</code> for months, or <code>Y</code> for years. If the unit is omitted, it is
-assumed to mean seconds. For example, <code>42s</code> means 42 seconds, <code>1337m</code> 1337
-minutes, and so on. You can chain more than one such group and they will add
-up. For example, <code>1Y3M3D7h</code> will ban for 1 year, 3 months, 3 days and 7 hours.</p>
-<p><strong>Example:</strong> <code>/xtempban Joe 3600 Some reason.</code></p>
-<h3><a id="user-content-xunban" class="anchor" aria-hidden="true" href="#xunban"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xunban</code></h3>
-<p>Unbans a player.</p>
-<p><strong>Usage:</strong> <code>/xunban &lt;player_or_ip&gt;</code></p>
-<p><strong>Example:</strong> <code>/xunban Joe</code></p>
-<h3><a id="user-content-xban_record" class="anchor" aria-hidden="true" href="#xban_record"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban_record</code></h3>
-<p>Shows the ban record on chat.</p>
-<p><strong>Usage:</strong> <code>/xban_record &lt;player_or_ip&gt;</code></p>
-<p>This prints one ban entry per line, with the time the ban came into effect,
-the expiration time (if applicable), the reason, and the source of the ban.
-The record is printed to chat with one entry per line.</p>
-<p><strong>Example:</strong> <code>/xban_record Joe</code></p>
-<h3><a id="user-content-xban_wl" class="anchor" aria-hidden="true" href="#xban_wl"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban_wl</code></h3>
-<p>Manages the whitelist.</p>
-<p><strong>Usage:</strong> <code>/xban_wl (add|del|get) &lt;player_or_ip&gt;</code></p>
-<p>Whitelisted players are allowed on the server even if it's otherwise marked
-as banned. This is useful to only allow certain users from shared computers,
-for example.</p>
-<p>The <code>add</code> subcommand adds the player to the whitelist. The <code>del</code> subcommand
-removes the player from the whitelist. The <code>get</code> subcommand checks if the
-player is in the whitelist, and prints the status to chat.</p>
-<p><strong>Example:</strong> <code>/xban_record add Jane</code></p>
-<h3><a id="user-content-xban_gui" class="anchor" aria-hidden="true" href="#xban_gui"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban_gui</code></h3>
-<p>Shows a form to consult the database interactively.</p>
-<p><strong>Usage:</strong> <code>/xban_gui</code></p>
-<h2><a id="user-content-administrator-commands" class="anchor" aria-hidden="true" href="#administrator-commands"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Administrator commands</h2>
-<p>The following commands require the <code>server</code> privilege, so they are only
-available to server administrators.</p>
-<h3><a id="user-content-xban_dbi" class="anchor" aria-hidden="true" href="#xban_dbi"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban_dbi</code></h3>
-<p>Imports ban entries from other database formats.</p>
-<p><strong>Usage:</strong> <code>/xban_dbi &lt;importer&gt;</code></p>
-<p>The <code>importer</code> argument specifies from which database to import. These are
-the supported import plugins at the time of writing:</p>
-<ul>
-<li><code>minetest</code>: Import entries from Minetest's ban list (<code>ipban.txt</code>).</li>
-<li><code>v1</code>: Old format used by xban (<code>players.iplist</code>).</li>
-<li><code>v2</code>: Old format used by xban (<code>players.iplist.v2</code>).</li>
-</ul>
-<p><strong>Example:</strong> <code>/xban_dbi minetest</code></p>
-<h3><a id="user-content-xban_cleanup" class="anchor" aria-hidden="true" href="#xban_cleanup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><code>xban_cleanup</code></h3>
-<p>Removes all non-banned entries from the xban db.</p>
-<p><strong>Usage:</strong> <code>/xban_cleanup</code></p>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-lua  gist-border-0">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> FORMNAME <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>xban2:main<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> MAXLISTSIZE <span class="pl-k">=</span> <span class="pl-c1">100</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> strfind, format <span class="pl-k">=</span> string.<span class="pl-smi">find</span>, string.<span class="pl-smi">format</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> ESC <span class="pl-k">=</span> minetest.<span class="pl-smi">formspec_escape</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">make_list</span>(<span class="pl-smi">filter</span>)</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">	filter <span class="pl-k">=</span> filter <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> list, n, dropped <span class="pl-k">=</span> { }, <span class="pl-c1">0</span>, <span class="pl-c1">false</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> k <span class="pl-k">in</span> minetest.<span class="pl-c1">get_auth_handler</span>().<span class="pl-c1">iterate</span>() <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> <span class="pl-c1">strfind</span>(k, filter, <span class="pl-c1">1</span>, <span class="pl-c1">true</span>) <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">if</span> n <span class="pl-k">&gt;=</span> MAXLISTSIZE <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">				dropped <span class="pl-k">=</span> <span class="pl-c1">true</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">				<span class="pl-k">break</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">			n<span class="pl-k">=</span>n<span class="pl-k">+</span><span class="pl-c1">1</span> list[n] <span class="pl-k">=</span> k</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">table.sort</span>(list)</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> list, dropped</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> states <span class="pl-k">=</span> { }</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">get_state</span>(<span class="pl-smi">name</span>)</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> state <span class="pl-k">=</span> states[name]</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> <span class="pl-k">not</span> state <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">		state <span class="pl-k">=</span> { index<span class="pl-k">=</span><span class="pl-c1">1</span>, filter<span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span> }</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">		states[name] <span class="pl-k">=</span> state</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">		state.<span class="pl-smi">list</span>, state.<span class="pl-smi">dropped</span> <span class="pl-k">=</span> <span class="pl-c1">make_list</span>()</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> state</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">get_record_simple</span>(<span class="pl-smi">name</span>)</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> e <span class="pl-k">=</span> xban.<span class="pl-c1">find_entry</span>(name)</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> <span class="pl-k">not</span> e <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> <span class="pl-c1">nil</span>, (<span class="pl-s"><span class="pl-pds">&quot;</span>No entry for `%s&#39;<span class="pl-pds">&quot;</span></span>):<span class="pl-c1">format</span>(name)</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">elseif</span> (<span class="pl-k">not</span> e.<span class="pl-smi">record</span>) <span class="pl-k">or</span> (<span class="pl-k">#</span>e.<span class="pl-smi">record</span> <span class="pl-k">==</span> <span class="pl-c1">0</span>) <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span> <span class="pl-c1">nil</span>, (<span class="pl-s"><span class="pl-pds">&quot;</span>`%s&#39; has no ban records<span class="pl-pds">&quot;</span></span>):<span class="pl-c1">format</span>(name)</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> record <span class="pl-k">=</span> { }</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">for</span> _, rec <span class="pl-k">in</span> <span class="pl-c1">ipairs</span>(e.<span class="pl-smi">record</span>) <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> msg <span class="pl-k">=</span> (<span class="pl-c1">os.date</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>%Y-%m-%d %H:%M:%S<span class="pl-pds">&quot;</span></span>, rec.<span class="pl-smi">time</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span> | <span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">				<span class="pl-k">..</span>(rec.<span class="pl-smi">reason</span> <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&quot;</span>No reason given.<span class="pl-pds">&quot;</span></span>))</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">table.insert</span>(record, msg)</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> record, e.<span class="pl-smi">record</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">make_fs</span>(<span class="pl-smi">name</span>)</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> state <span class="pl-k">=</span> <span class="pl-c1">get_state</span>(name)</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> list, filter <span class="pl-k">=</span> state.<span class="pl-smi">list</span>, state.<span class="pl-smi">filter</span></td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> pli, ei <span class="pl-k">=</span> state.<span class="pl-smi">player_index</span> <span class="pl-k">or</span> <span class="pl-c1">1</span>, state.<span class="pl-smi">entry_index</span> <span class="pl-k">or</span> <span class="pl-c1">0</span></td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> pli <span class="pl-k">&gt;</span> <span class="pl-k">#</span>list <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">		pli <span class="pl-k">=</span> <span class="pl-k">#</span>list</td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> fs <span class="pl-k">=</span> {</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">		<span class="pl-s"><span class="pl-pds">&quot;</span>size[16,12]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">		<span class="pl-s"><span class="pl-pds">&quot;</span>label[0,-.1;Filter]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">		<span class="pl-s"><span class="pl-pds">&quot;</span>field[1.5,0;12.8,1;filter;;<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">ESC</span>(filter)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span>]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">		<span class="pl-s"><span class="pl-pds">&quot;</span>button[14,-.3;2,1;search;Search]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">	}</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> fsn <span class="pl-k">=</span> <span class="pl-k">#</span>fs</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">	fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-c1">format</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>textlist[0,.8;4,9.3;player;%s;%d;0]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">			<span class="pl-c1">table.concat</span>(list, <span class="pl-s"><span class="pl-pds">&quot;</span>,<span class="pl-pds">&quot;</span></span>), pli)</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> record_name <span class="pl-k">=</span> list[pli]</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> record_name <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> record, e <span class="pl-k">=</span> <span class="pl-c1">get_record_simple</span>(record_name)</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> record <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">for</span> i, r <span class="pl-k">in</span> <span class="pl-c1">ipairs</span>(record) <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">				record[i] <span class="pl-k">=</span> <span class="pl-c1">ESC</span>(r)</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">			fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-c1">format</span>(</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">					<span class="pl-s"><span class="pl-pds">&quot;</span>textlist[4.2,.8;11.7,9.3;entry;%s;%d;0]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">					<span class="pl-c1">table.concat</span>(record, <span class="pl-s"><span class="pl-pds">&quot;</span>,<span class="pl-pds">&quot;</span></span>), ei)</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">local</span> rec <span class="pl-k">=</span> e[ei]</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">if</span> rec <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">				fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-c1">format</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>label[0,10.3;%s]<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">						<span class="pl-c1">ESC</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Source: <span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(rec.<span class="pl-smi">source</span> <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&quot;</span>&lt;none&gt;<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">							<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span>Time: <span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">os.date</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>%c<span class="pl-pds">&quot;</span></span>, rec.<span class="pl-smi">time</span>)</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">							<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(rec.<span class="pl-smi">expires</span> <span class="pl-k">and</span></td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">								<span class="pl-c1">os.date</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>%c<span class="pl-pds">&quot;</span></span>, rec.<span class="pl-smi">expires</span>) <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)),</td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">						pli)</td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">else</span></td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">			fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>textlist[4.2,.8;11.7,9.3;err;<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">ESC</span>(e)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span>;0]<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">			fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>label[0,10.3;<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">ESC</span>(e)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span>]<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">else</span></td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> e <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>No entry matches the query.<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">		fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>textlist[4.2,.8;11.7,9.3;err;<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">ESC</span>(e)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span>;0]<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">		fsn<span class="pl-k">=</span>fsn<span class="pl-k">+</span><span class="pl-c1">1</span> fs[fsn] <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>label[0,10.3;<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span><span class="pl-c1">ESC</span>(e)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span>]<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> <span class="pl-c1">table.concat</span>(fs)</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">minetest.<span class="pl-c1">register_on_player_receive_fields</span>(<span class="pl-k">function</span>(<span class="pl-smi">player</span>, <span class="pl-smi">formname</span>, <span class="pl-smi">fields</span>)</td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> formname <span class="pl-k">~=</span> FORMNAME <span class="pl-k">then</span> <span class="pl-k">return</span> <span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> name <span class="pl-k">=</span> player:<span class="pl-c1">get_player_name</span>()</td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> <span class="pl-k">not</span> minetest.<span class="pl-c1">check_player_privs</span>(name, { ban<span class="pl-k">=</span><span class="pl-c1">true</span> }) <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">		minetest.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>warning<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">				<span class="pl-s"><span class="pl-pds">&quot;</span>[xban2] Received fields from unauthorized user: <span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>name)</td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span></td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">local</span> state <span class="pl-k">=</span> <span class="pl-c1">get_state</span>(name)</td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> fields.<span class="pl-smi">player</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> t <span class="pl-k">=</span> minetest.<span class="pl-c1">explode_textlist_event</span>(fields.<span class="pl-smi">player</span>)</td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (t.<span class="pl-smi">type</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>CHG<span class="pl-pds">&quot;</span></span>) <span class="pl-k">or</span> (t.<span class="pl-smi">type</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>DCL<span class="pl-pds">&quot;</span></span>) <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line">			state.<span class="pl-smi">player_index</span> <span class="pl-k">=</span> t.<span class="pl-smi">index</span></td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">			minetest.<span class="pl-c1">show_formspec</span>(name, FORMNAME, <span class="pl-c1">make_fs</span>(name))</td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span></td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> fields.<span class="pl-smi">entry</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> t <span class="pl-k">=</span> minetest.<span class="pl-c1">explode_textlist_event</span>(fields.<span class="pl-smi">entry</span>)</td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">if</span> (t.<span class="pl-smi">type</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>CHG<span class="pl-pds">&quot;</span></span>) <span class="pl-k">or</span> (t.<span class="pl-smi">type</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>DCL<span class="pl-pds">&quot;</span></span>) <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">			state.<span class="pl-smi">entry_index</span> <span class="pl-k">=</span> t.<span class="pl-smi">index</span></td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">			minetest.<span class="pl-c1">show_formspec</span>(name, FORMNAME, <span class="pl-c1">make_fs</span>(name))</td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">return</span></td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> fields.<span class="pl-smi">search</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">local</span> filter <span class="pl-k">=</span> fields.<span class="pl-smi">filter</span> <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">		state.<span class="pl-smi">filter</span> <span class="pl-k">=</span> filter</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">		state.<span class="pl-smi">list</span> <span class="pl-k">=</span> <span class="pl-c1">make_list</span>(filter)</td>
+      </tr>
+      <tr>
+        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line">		minetest.<span class="pl-c1">show_formspec</span>(name, FORMNAME, <span class="pl-c1">make_fs</span>(name))</td>
+      </tr>
+      <tr>
+        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span>)</td>
+      </tr>
+      <tr>
+        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
+        <td id="LC132" class="blob-code blob-code-inner js-file-line">minetest.<span class="pl-c1">register_chatcommand</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>xban_gui<span class="pl-pds">&quot;</span></span>, {</td>
+      </tr>
+      <tr>
+        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
+        <td id="LC133" class="blob-code blob-code-inner js-file-line">	description <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Show XBan GUI<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
+        <td id="LC134" class="blob-code blob-code-inner js-file-line">	params <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
+        <td id="LC135" class="blob-code blob-code-inner js-file-line">	privs <span class="pl-k">=</span> { ban<span class="pl-k">=</span><span class="pl-c1">true</span>, },</td>
+      </tr>
+      <tr>
+        <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
+        <td id="LC136" class="blob-code blob-code-inner js-file-line">	func <span class="pl-k">=</span> <span class="pl-k">function</span>(<span class="pl-smi">name</span>, <span class="pl-smi">params</span>)</td>
+      </tr>
+      <tr>
+        <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
+        <td id="LC137" class="blob-code blob-code-inner js-file-line">		minetest.<span class="pl-c1">show_formspec</span>(name, FORMNAME, <span class="pl-c1">make_fs</span>(name))</td>
+      </tr>
+      <tr>
+        <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
+        <td id="LC138" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">end</span></td>
+      </tr>
+      <tr>
+        <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
+        <td id="LC139" class="blob-code blob-code-inner js-file-line">})</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/MultiCraft/server-mods/blame/c4d1efb41ae56b14d22b595b0c45ae99371aa1fa/xban2/gui.lua">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/MultiCraft/server-mods/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
